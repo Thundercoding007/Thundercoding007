@@ -13,7 +13,7 @@ I'm currently pursuing my **Bachelor's degree in Information Technology (IT)** a
 ## 📫 How to Reach Me
 - 📧 Email: [lalitvpatil2005@gmail.com]
 - 🌐 LinkedIn: [https://www.linkedin.com/in/lalit-patil-546858298?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzXnRqiKnT3GBADcTZLI8XQ%3D%3D]
-- 🧑‍💻 GitHub: [Your GitHub Profile URL]
+- 🧑‍💻 GitHub: [https://github.com/Thundercoding007]
 
 Feel free to check out my repositories and projects as I continue to learn and grow in this field. Stay tuned for more updates! 🚀
 
