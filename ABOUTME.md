@@ -8,7 +8,7 @@ I'm currently pursuing my **Bachelor's degree in Information Technology (IT)** a
 - 📚 **Academic Background**: Bachelor's degree in IT from **VIT Pune**.
 
 ## 🎨 Hobbies
-- [Photography, Coding, Playing video games, reading encyclopedias, Watching sci-fi movies, listening to music(mostly romantic and soothing ones).]
+- Photography, Coding, Playing video games, reading encyclopedias, Watching sci-fi movies, listening to music(mostly romantic and soothing ones).
 
 ## 📫 How to Reach Me
 - 📧 Email: [lalitvpatil2005@gmail.com]
